@@ -1,2 +1,2 @@
 # Windformer
-Our code will be released soon.
+![image](https://github.com/szwszwszw123/Windformer/blob/main/image/architecture.pdf)
